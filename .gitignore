@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# iCloud artifacts
+*.icloud
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data (keep if you need; otherwise ignore big/raw)
+data/raw/
+*.tmp
